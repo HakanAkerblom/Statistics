@@ -10,6 +10,8 @@ pandas = "*"
 matplotlib = "*"
 scipy = "*"
 seaborn = "*"
+statsmodels = "*"
+dataframe-image = "*"
 
 [dev-packages]
 
